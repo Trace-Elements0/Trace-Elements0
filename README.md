@@ -7,6 +7,6 @@
   ◾ 💬 Ask me about how long I've been programming or what my next move is
 
   ◾ 🌵 Fun fact: I'm a transitioning service-member and before the Marine Corps I worked at a maximum security prison in Texas  
-
                                              ◾ 📫 How to reach me  
-                       📧 jorge.a.sanchez@outlook.com  🔗 https://www.linkedin.com/in/jorge-sanchez-ii
+                                       📧 jorge.a.sanchez@outlook.com  
+                                       🔗 https://www.linkedin.com/in/jorge-sanchez-ii
