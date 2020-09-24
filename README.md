@@ -1,4 +1,4 @@
-                                            👨🏻‍💻 Hello I'm Jorge
+                                      👨🏻‍💻 Hello I'm Jorge
   ◾ 🧠 I’m currently working on a ASP.NET Core Web App which will help me track my job applications 
 
   ◾ 💡 I’m currently learning to design, build, and deploy web apps using cloud-based services with ASP.NET Core 
