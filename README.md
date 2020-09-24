@@ -6,26 +6,8 @@ Hello! I'm Jorge! 👋
 
 - 💬 Ask me about how long I've been programming
 
+- 🌵 Fun fact: I'm a transitioning service-member and before the Marine Corps I worked at a maximum security prison in Texas  
+
 - 📫 How to reach me: :email:   jorge.a.sanchez@outlook.com
 
                          🏢  https://www.linkedin.com/in/jorge-sanchez-ii/
-                      
-- 🌵 Fun fact: I'm a transitioning service-member and before the Marine Corps I worked at a maximum security prison in Texas                       
-
-                      
-                      
-
-<!--
-**Trace-Elements0/Trace-Elements0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
