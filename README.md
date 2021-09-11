@@ -1,10 +1,8 @@
                                       👨🏻‍💻 Hello I'm Jorge
-  ◾ 🧠 I’m currently working on my Blazor server project CarM8 
+  ◾ 🧠 I’m currently working as a Software Developer 
 
-  ◾ 💡 I’m currently learning to design, build, and deploy web apps using cloud-based services with ASP.NET Core 
+  ◾ 💡 I’m learning and using SQL, PowerShell, and PowerBI everyday to provide reporting services to a client
 
-  ◾ 💬 Ask me about how long I've been programming or what my next move is
-
-  ◾ 🌵 Fun fact: I'm a transitioning service-member and before the Marine Corps I worked at a maximum security prison in Texas  
+  ◾ 🌵 Fun fact: I'm a veteran of the Marine Corps and before that I worked at a maximum security prison in Texas  
  
- ◾ 📫 How to reach me   📧 jorge.a.sanchez@outlook.com 🔗 https://www.linkedin.com/in/jorge-sanchez-ii
+ ◾ 📫 How to reach me   📧 jorge.a.sanchezii@outlook.com 🔗 https://www.linkedin.com/in/jorge-sanchez-ii
